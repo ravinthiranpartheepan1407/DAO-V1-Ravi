@@ -209,7 +209,7 @@ export default function Home() {
         <div>
         <br />
         <div className="text-white text-center p-8 text-2xl">
-          You don't own AzogDev NFTs <br />
+          You dont own AzogDev NFTs <br />
           <h1> So you cannot create or vote on proposals </h1>
         </div>
         </div>
